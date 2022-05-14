@@ -6,6 +6,6 @@ window.addEventListener("DOMContentLoaded", () => {
   hot.forEach(item => {
     item.innerHTML += "🔥"
   })
-  
+  //
 });
 
